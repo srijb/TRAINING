@@ -1,2 +1,6 @@
 Hi Hellow every one
+<<<<<<< Updated upstream
 Hi added new line 
+=======
+Hi Adding new file
+>>>>>>> Stashed changes
